@@ -1,5 +1,5 @@
 {
-  "name": "svartsvan/magento-2-czech-language-pack",
+  "name": "aveadev/magento-2-czech-language-pack",
   "description": "Czech language package for Magento 2",
   "version": "0.0.1",
   "keywords": [
@@ -13,7 +13,7 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "svartsvan"
+      "name": "Avea"
     }
   ],
   "autoload": {
