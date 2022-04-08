@@ -11594,14 +11594,14 @@ Update State,Upravit situaci,module,Magento_Logging
 Update Status,Upravit stav,module,Magento_Review
 Update the Product,Upravit produkt,module,Magento_CatalogRule
 Update the Product,Upravit produkt,module,Magento_SalesRule
-Update to your %store_name credit memo,Aktualizujte svou dobropisku %store_name,theme,frontend/Magento/luma
-Update to your %store_name credit memo,Update to your %store_name credit memo,module,Magento_Sales
-Update to your %store_name invoice,Aktualizujte svou fakturu %store_name,theme,frontend/Magento/luma
-Update to your %store_name invoice,Update to your %store_name invoice,module,Magento_Sales
-Update to your %store_name order,Aktualizujte svůj příkaz %store_name,theme,frontend/Magento/luma
-Update to your %store_name order,Update to your %store_name order,module,Magento_Sales
-Update to your %store_name shipment,Aktualizujte zásilku %store_name,theme,frontend/Magento/luma
-Update to your %store_name shipment,Update to your %store_name shipment,module,Magento_Sales
+Update to your %store_name credit memo,Aktualizace vaší poznámky %store_name,theme,frontend/Magento/luma
+Update to your %store_name credit memo,Aktualizace vaší poznámky %store_name,module,Magento_Sales
+Update to your %store_name invoice,Aktualizace vaší objednávky %store_name,theme,frontend/Magento/luma
+Update to your %store_name invoice,Aktualizace vaší objednávky %store_name,module,Magento_Sales
+Update to your %store_name order,Aktualizace vaší objednávky %store_name,theme,frontend/Magento/luma
+Update to your %store_name order,Aktualizace vaší objednávky %store_name,module,Magento_Sales
+Update to your %store_name shipment,Aktualizace vaší zásilky %store_name,theme,frontend/Magento/luma
+Update to your %store_name shipment,Aktualizace vaší zásilky %store_name,module,Magento_Sales
 Update Wish List,Upravit seznam,module,Magento_Wishlist
 Updated,Aktualizováno,module,Magento_CustomerBalance
 Updated,Upraveno,module,Magento_Email
@@ -12938,7 +12938,7 @@ Your %store_name email has been changed,Vaše emailová adresa v obchodu %store_
 Your %store_name order confirmation,Potvrzení objednávky %store_name,theme,frontend/Magento/luma
 Your %store_name order confirmation,Your %store_name order confirmation,module,Magento_Sales
 Your %store_name order has shipped,Vaše objednávka %store_name byla odeslána,theme,frontend/Magento/luma
-Your %store_name order has shipped,Your %store_name order has shipped,module,Magento_Sales
+Your %store_name order has shipped,Vaše objednávka %store_name byla odeslána,module,Magento_Sales
 Your %store_name password has been changed,Vaše heslo v %store_name bylo změněno,module,Magento_Customer
 Your account is temporarily disabled. Please try again later.,Your account is temporarily disabled. Please try again later.,module,Magento_Integration
 Your account is temporarily disabled. Please try again later.,Váš účet je dočasně zakázán. Prosím zkuste to znovu později.,module,Magento_Security
@@ -12997,8 +12997,8 @@ Your search returned no results.,Nebyly nalezeny žádné výsledky.,module,Mage
 Your search returned no results.,Your search returned no results.,module,Magento_GiftRegistry
 Your search returned no results.,Your search returned no results.,module,Magento_MultipleWishlist
 Your session has expired,Platnost relace vypršela,module,Magento_Checkout
-Your Shipment #%shipment_id for Order #%order_id,Zásilka č. #%shipment_id k objednávce č. %order_id,theme,frontend/Magento/luma
-Your Shipment #%shipment_id for Order #%order_id,Zásilka č. #%shipment_id k objednávce č. %order_id,module,Magento_Sales
+Your Shipment #%shipment_id for Order #%order_id,Zásilka k objednávce č. %order_id,theme,frontend/Magento/luma
+Your Shipment #%shipment_id for Order #%order_id,Zásilka k objednávce č. %order_id,module,Magento_Sales
 Your shipping confirmation is below. Thank you again for your business.,Potvrzení odeslání zásilky je níže. Ještě jednou Vám za nákup děkujeme.,theme,frontend/Magento/luma
 Your shipping confirmation is below. Thank you again for your business.,Potvrzení odeslání zásilky je níže. Ještě jednou vám za nákup děkujeme.,module,Magento_Sales
 Your shopping cart has been updated with new prices.,Ceny produktů v košíku byly aktualizovány.,module,Magento_Persistent
