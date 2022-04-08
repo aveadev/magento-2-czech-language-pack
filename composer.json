@@ -1,15 +1,12 @@
 {
   "name": "aveadev/magento-2-czech-language-pack",
   "description": "Czech language package for Magento 2",
-  "version": "0.0.1",
   "keywords": [
     "magento", 
     "czech language",
     "cs_CZ"
   ],
   "type": "magento2-language",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
   "license": "MIT",
   "authors": [
     {
