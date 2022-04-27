@@ -12997,7 +12997,6 @@ Your search returned no results.,Nebyly nalezeny žádné výsledky.,module,Mage
 Your search returned no results.,Your search returned no results.,module,Magento_GiftRegistry
 Your search returned no results.,Your search returned no results.,module,Magento_MultipleWishlist
 Your session has expired,Platnost relace vypršela,module,Magento_Checkout
-Your Shipment #%shipment_id for Order #%order_id,Zásilka k objednávce č. %order_id,theme,frontend/Magento/luma
 Your Shipment #%shipment_id for Order #%order_id,Zásilka k objednávce č. %order_id,module,Magento_Sales
 Your shipping confirmation is below. Thank you again for your business.,Potvrzení odeslání zásilky je níže. Ještě jednou Vám za nákup děkujeme.,theme,frontend/Magento/luma
 Your shipping confirmation is below. Thank you again for your business.,Potvrzení odeslání zásilky je níže. Ještě jednou vám za nákup děkujeme.,module,Magento_Sales
