@@ -2089,7 +2089,7 @@ Check Out with Multiple Addresses,Pokladna pro doručení na více adres,module,
 Check status and balance,Check status and balance,module,Magento_GiftCardAccount
 Check the status of orders,Zkontrolovat stav objednávek,theme,frontend/Magento/luma
 Check the status of orders,Zkontrolovat stav objednávek,module,Magento_Customer
-Check the status of orders,Check the status of orders,module,Magento_Theme
+Check the status of orders,Zkontrolovat stav objednávek,module,Magento_Theme
 Checkbox,Zaškrtávací políčko,module,Magento_Bundle
 Checkbox Text,Text zaškrtávacího políčka,module,Magento_CheckoutAgreements
 "Checked rows: %1, checked entities: %2, invalid rows: %3, total errors: %4","Ověřeno řádků: %1, ověřeno entit: %2, chybných řádků: %3, celkem chyb: %4",module,Magento_ImportExport
@@ -4380,7 +4380,7 @@ Forgot Password,Zapomenuté heslo,module,Magento_Logging
 Forgot Password Email Template,Šablona e-mailu obnovy hesla,module,Magento_Backend
 "Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Zapoměli jste své heslo? Kliknutím <a href=""%reset_url"">zde</a> jej obnovíte.",theme,frontend/Magento/luma
 "Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Zapoměli jste své heslo? Kliknutím <a href=""%reset_url"">zde</a> jej obnovíte.",module,Magento_Customer
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.",module,Magento_Theme
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Zapoměli jste své heslo? Kliknutím <a href=""%reset_url"">zde</a> jej obnovíte.",module,Magento_Theme
 Forgot Your Password?,Zapoměli jste heslo?,module,Magento_Checkout
 Forgot Your Password?,Zapomněli jste heslo?,module,Magento_Customer
 Forgot your password?,Obnova hesla,module,Magento_User
@@ -6997,7 +6997,7 @@ Password Strength,Password Strength,module,Magento_CustomerCustomAttributes
 Password Template Email Sender,Odesílatel e-mailů hesla,module,Magento_Customer
 Password you set when creating account,"Heslo, které jste zadali při registraci",theme,frontend/Magento/luma
 Password you set when creating account,"Heslo, které jste zadali při registraci",module,Magento_Customer
-Password you set when creating account,Password you set when creating account,module,Magento_Theme
+Password you set when creating account,"Heslo, které jste zadali při registraci",module,Magento_Theme
 Password:,Heslo:,theme,frontend/Magento/luma
 Password:,Heslo:,module,Magento_Customer
 Password:,Heslo:,module,Magento_Theme
@@ -7808,7 +7808,7 @@ Private Sales: Login Only,Soukromý prodej: Pouze pro přihlášené,module,Mage
 Private Wish List,Private Wish List,module,Magento_MultipleWishlist
 Proceed through checkout faster,Rychlejší proces dokončení objednávky,theme,frontend/Magento/luma
 Proceed through checkout faster,Rychlejší proces dokončení objednávky,module,Magento_Customer
-Proceed through checkout faster,Proceed through checkout faster,module,Magento_Theme
+Proceed through checkout faster,Rychlejší proces dokončení objednávky,module,Magento_Theme
 Proceed to Checkout,Dokončit objednávku,module,Magento_Checkout
 Process payments using your own internet merchant account.,Process payments using your own internet merchant account.,module,Magento_Paypal
 Processed,Zpracováno,module,Magento_Newsletter
@@ -9886,7 +9886,7 @@ Store,Obchod,module,Magento_Theme
 Store,Obchod,module,Magento_UrlRewrite
 Store alternative addresses,Můžete si uložit více adres,theme,frontend/Magento/luma
 Store alternative addresses (for shipping to multiple family members and friends),Používání alternativních adres (pro doručování dalším členům rodiny či přátelům),module,Magento_Customer
-Store alternative addresses (for shipping to multiple family members and friends),Store alternative addresses (for shipping to multiple family members and friends),module,Magento_Theme
+Store alternative addresses (for shipping to multiple family members and friends),Používání alternativních adres (pro doručování dalším členům rodiny či přátelům),module,Magento_Theme
 Store code %1 does not exist,Store code %1 does not exist,module,Magento_GraphQl
 Store Credit,Uložený kredit,module,Magento_Quote
 Store Credit,Store Credit,module,Magento_CustomerBalance
@@ -11254,7 +11254,7 @@ to redeem it.,to redeem it.,module,Magento_GiftCardAccount
 "To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","K přihlášení na náš web a nastavení hesla klikněte na tento <a href=""%create_password_url"">odkaz</a>:",module,Magento_Customer
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Tyto přihlašovací údaje použijte k přihlášení na naše stránky v průběhu dokončení objednávky nebo na <a href=""%customer_url"">Můj účet</a> stránce:",theme,frontend/Magento/luma
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Tyto přihlašovací údaje použijte k přihlášení na naše stránky v průběhu dokončení objednávky nebo na <a href=""%customer_url"">Můj účet</a> stránce:",module,Magento_Customer
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:",module,Magento_Theme
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Tyto přihlašovací údaje použijte k přihlášení na naše stránky v průběhu dokončení objednávky nebo na <a href=""%customer_url"">Můj účet</a> stránce:",module,Magento_Theme
 "To take advantage of the promotion you need to sign in at <a href=""%account_url"">%store_name</a>","To take advantage of the promotion you need to sign in at <a href=""%account_url"">%store_name</a>",module,Magento_Reminder
 "To take advantage of the promotion you need to sign in at <a href=""%account_url"">%store_name</a> and apply the coupon ""%coupon_code"" in the shopping cart.","To take advantage of the promotion you need to sign in at <a href=""%account_url"">%store_name</a> and apply the coupon ""%coupon_code"" in the shopping cart.",module,Magento_Reminder
 "To use PayPal Payflow Link, you must configure your PayPal Payflow Link account on the PayPal website.","To use PayPal Payflow Link, you must configure your PayPal Payflow Link account on the PayPal website.",module,Magento_Paypal
@@ -12464,7 +12464,7 @@ When you enable this option your site may slow down.,Zapnutí této funkce můž
 "When you remove or add an attribute, we automatically update all configurations and you will need to recreate current configurations manually.",Při odebrání nebo přidání atributu automaticky aktualizujeme všechny konfigurace a budete muset znovu vytvořit aktuální konfigurace ručně.,module,Magento_ConfigurableProduct
 "When you sign in to your account, you will be able to:",Po přihlášení k vašemu účtu můžete provádět následující:,theme,frontend/Magento/luma
 "When you sign in to your account, you will be able to:",Po přihlášení k vašemu účtu můžete provádět následující:,module,Magento_Customer
-"When you sign in to your account, you will be able to:","When you sign in to your account, you will be able to:",module,Magento_Theme
+"When you sign in to your account, you will be able to:",Po přihlášení k vašemu účtu můžete provádět následující:,module,Magento_Theme
 "Whether to create a billing agreement, if there are no active billing agreements available.","Whether to create a billing agreement, if there are no active billing agreements available.",module,Magento_Paypal
 "Whether to show ""All"" option in the ""Show X Per Page"" dropdown","Zda se zobrazí možnost ""Zobrazit vše"" v rozbalovacím výběru počtu produktů na stránce",module,Magento_Catalog
 Widget,Widget,module,Magento_Logging
