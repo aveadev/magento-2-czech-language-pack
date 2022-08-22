@@ -2171,16 +2171,16 @@ close,zavřít,module,Magento_AdminNotification
 Close,Zavřít,module,Magento_AdminNotification
 Close,Zavřít,module,Magento_Backend
 Close,Zavřít,module,Magento_Bundle
-Close,Zavřít‏,module,Magento_CheckoutAgreements
-Close,Zavřít‏,module,Magento_MultipleWishlist
-Close,Zavřít‏,module,Magento_Paypal
-Close,Zavřít‏,module,Magento_Rma
-Close,Zavřít‏,module,Magento_Sales
-Close,Zavřít‏,module,Magento_Staging
-Close,Zavřít‏,module,Magento_TargetRule
+Close,Zavřít,module,Magento_CheckoutAgreements
+Close,Zavřít,module,Magento_MultipleWishlist
+Close,Zavřít,module,Magento_Paypal
+Close,Zavřít,module,Magento_Rma
+Close,Zavřít,module,Magento_Sales
+Close,Zavřít,module,Magento_Staging
+Close,Zavřít,module,Magento_TargetRule
 Close,Zavřít,module,Magento_Theme
-Close,Zavřít‏,module,Magento_Ui
-Close,Zavřít‏,module,Magento_VisualMerchandiser
+Close,Zavřít,module,Magento_Ui
+Close,Zavřít,module,Magento_VisualMerchandiser
 Close,Zavřít,module,Magento_Widget
 Close Window,Zavřít okno,module,Magento_Catalog
 Close Window,Zavřít okno,module,Magento_Rma
@@ -11912,6 +11912,7 @@ View All,Zobrazit vše,module,Magento_Review
 View All,Zobrazit všechny,module,Magento_Sales
 View all Wish List items,Zobrazit všechny oblíbené položky,module,Magento_Wishlist
 View and Edit Cart,Zobrazit a upravit košík,module,Magento_Checkout
+View and edit Cart,Zobrazit a upravit košík,module,Magento_Checkout
 View and modify Shopping Cart,Zobrazit a upravit nákupní košík,module,Magento_AdvancedCheckout
 View Another Order,Zobrazit jinou objednávku,module,Magento_Sales
 View Another Order,Zobrazit jinou objednávku,module,Magento_Shipping
@@ -13039,3 +13040,4 @@ Zip/Postal Code is Optional for,PSČ je volitelné pro,module,Magento_Directory
 Name Prefix,Titul,module,Magento_Checkout
 "You added %1 to your <a href=""%2"">shopping cart</a>.","Přidali jste %1 do <a href=""%2"">nákupního košíku</a>.",module,Magento_Checkout
 Item in Cart,Položka v košíku,module,Magento_Checkout
+Go to Checkout,Přejít k pokladně,module,Magento_Checkout
