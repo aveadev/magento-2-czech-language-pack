@@ -12444,7 +12444,7 @@ Welcome to %store_name,Vítejte v %store_name,theme,frontend/Magento/luma
 Welcome to %store_name,Vítejte v %store_name,module,Magento_Customer
 Welcome to %store_name.,Vítejte v %store_name.,theme,frontend/Magento/luma
 Welcome to %store_name.,Vítejte v %store_name.,module,Magento_Customer
-Welcome to %store_name.,Welcome to %store_name.,module,Magento_Theme
+Welcome to %store_name.,Vítejte v %store_name.,module,Magento_Theme
 "Welcome, %1!",Přihlášen jako %1,module,Magento_Persistent
 "Welcome, %1!",Přihlášen jako %1,module,Magento_Theme
 "Welcome, %name",Vítáme uživatele %name,module,Magento_SendFriend
