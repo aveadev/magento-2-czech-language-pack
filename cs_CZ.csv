@@ -13040,5 +13040,6 @@ Zip/Postal Code is Optional for,PSČ je volitelné pro,module,Magento_Directory
 Name Prefix,Titul,module,Magento_Checkout
 "You added %1 to your <a href=""%2"">shopping cart</a>.","Přidali jste %1 do <a href=""%2"">nákupního košíku</a>.",module,Magento_Checkout
 Item in Cart,Položka v košíku,module,Magento_Checkout
-Go to Checkout,Přejít k pokladně,module,Magento_Checkout"Your Cart","Váš košík",module,Magento_Checkout
+Go to Checkout,Přejít k pokladně,module,Magento_Checkout
+"Your Cart","Váš košík",module,Magento_Checkout
 "Legal guarantee notice","Oznámení o zákonné záruce",module,Swissup_CheckoutConsumerRights
