@@ -2152,8 +2152,8 @@ Clear Price,Smazat cenu,module,Magento_Catalog
 Clear Shopping Cart,Vyprázdnit košík,module,Magento_Checkout
 Clear Shopping Cart,Vyprázdnit košík,module,Magento_Sales
 "Click ""Save"" to apply the rates we found.","Kliknutím na tlačítko ""Uložit"" budou kurzy aplikovány.",module,Magento_CurrencySymbol
-"Click <a href=""%1"">here</a> to continue shopping.","Pokračujte v nákupu <a href=""%1"">kliknutím zde</a>.",module,Magento_Checkout
-"Click <a href=""%1"">here</a> to continue shopping.","Chcete-li pokračovat v nákupu, klikněte <a href=""%1""> zde </a>.",module,Magento_Wishlist
+"Click <a href=""%1"">here</a> to continue shopping.","Chcete-li pokračovat v nákupu, klikněte <a href=""%1"">zde</a>.",module,Magento_Checkout
+"Click <a href=""%1"">here</a> to continue shopping.","Chcete-li pokračovat v nákupu, klikněte <a href=""%1"">zde</a>.",module,Magento_Wishlist
 "Click <a href=""%1"">here</a> to see the review.","Kliknutím <a href=""%1"">zde</a> recenzi zobrazíte.",module,Magento_Review
 Click Details for more required fields.,Click Details for more required fields.,module,Magento_Rma
 Click for price,Kliknutím zobrazíte cenu,module,Magento_Catalog
@@ -6032,7 +6032,7 @@ Move to Shopping Cart,Přesunout do košíku,module,Magento_Sales
 Move to Wish List,Přesunout k oblíbeným,module,Magento_AdvancedCheckout
 Move to Wish List,Přesunout k oblíbeným,module,Magento_Sales
 Move to Wish List,Move to Wish List,module,Magento_MultipleWishlist
-Move to Wishlist,Přesunout do oblíbených,module,Magento_Wishlist
+Move to Wishlist,Přesunout do seznamu přání,module,Magento_Wishlist
 Multi-address Description Message,Text zprávy při doručení na více adres,module,Magento_Sales
 Multi-address Error to Show in Shopping Cart,Chyba při doručení na více adres zobrazená na stránce košíku,module,Magento_Sales
 Multiple Line,Vícenásobný řádek,module,Magento_CustomAttributeManagement
@@ -10054,7 +10054,7 @@ Summary,Souhrn,module,Magento_Checkout
 Summary,Souhrn,module,Magento_ConfigurableProduct
 Summary,Souhrn,module,Magento_ImportExport
 Summary,Souhrn,module,Magento_Review
-Summary,Summary,module,Magento_AsynchronousOperations
+Summary,Souhrn,module,Magento_AsynchronousOperations
 Summary of Review,Souhrn recenze,module,Magento_Review
 Summary of review: %1 <br/>,Souhrn recenze: %1 <br>,module,Magento_Review
 Summary Rating,Souhrnné hodnocení,module,Magento_Review
@@ -12484,11 +12484,11 @@ Width,Šířka,module,Magento_Usps
 Will appear as a payment option only for customers who have at least one active billing agreement.,"Zobrazí se jako způsob platby pouze pro ty zákazníky, kteří mají alespoň jedny aktivní platební podmínky.",module,Magento_Paypal
 Window Flat-Rate Envelope,Window Flat-Rate Envelope,module,Magento_Usps
 Windows,Windows,module,Magento_Support
-Wish List,Seznam oblíbených,module,Magento_MultipleWishlist
-Wish List,Seznam oblíbených,module,Magento_Sales
-Wish List,Oblíbené,module,Magento_Wishlist
-Wish List,Wish List,module,Magento_CustomerSegment
-Wish List,Wish List,module,Magento_Reminder
+Wish List,Seznam přání,module,Magento_MultipleWishlist
+Wish List,Seznam přání,module,Magento_Sales
+Wish List,Seznam přání,module,Magento_Wishlist
+Wish List,Seznam přání,module,Magento_CustomerSegment
+Wish List,Seznam přání,module,Magento_Reminder
 "Wish list ""%1"" already exists.","Wish list ""%1"" already exists.",module,Magento_MultipleWishlist
 "Wish List ""%1"" has been deleted.","Wish List ""%1"" has been deleted.",module,Magento_MultipleWishlist
 "Wish list ""%1"" was saved.","Wish list ""%1"" was saved.",module,Magento_MultipleWishlist
@@ -12507,7 +12507,7 @@ Wish List Sharing,Sdílení oblíbených,module,Magento_Wishlist
 Wish List vs. Regular Order,Oblíbené vs. normální objednávka,module,Magento_Reports
 Wish Lists,Seznam oblíbených,module,Magento_MultipleWishlist
 Wish Lists,Seznam oblíbených,module,Magento_Reports
-Wishlist,Oblíbené,module,Magento_MultipleWishlist
+Wishlist,Seznam přání,module,Magento_MultipleWishlist
 "With customer tax applied “Before Discount”, the final discount calculation may not match customers’ expectations.","With customer tax applied “Before Discount”, the final discount calculation may not match customers’ expectations.",module,Magento_Tax
 Without starting and trailing slashes.,Bez počátečního a koncového lomítka.,module,Magento_Solr
 WK,T,module,Magento_Backend
@@ -13043,3 +13043,6 @@ Item in Cart,Položka v košíku,module,Magento_Checkout
 Go to Checkout,Přejít k pokladně,module,Magento_Checkout
 "Your Cart","Váš košík",module,Magento_Checkout
 "Legal guarantee notice","Oznámení o zákonné záruce",module,Swissup_CheckoutConsumerRights
+%1: Line %2,%1: Řádek %2,module,Magento_Checkout
+Tooltip,Nápověda,module,Magento_Ui
+"Sorry, no quotes are available for this order at this time",Pro tuto objednávku momentálně není k dispozici žádný způsob dopravy.,module,Magento_Checkout
