@@ -13046,3 +13046,4 @@ Go to Checkout,Přejít k pokladně,module,Magento_Checkout
 %1: Line %2,%1: Řádek %2,module,Magento_Checkout
 Tooltip,Nápověda,module,Magento_Ui
 "Sorry, no quotes are available for this order at this time",Pro tuto objednávku momentálně není k dispozici žádný způsob dopravy.,module,Magento_Checkout
+"The store will not work correctly when cookies are disabled.","Obchod nebude správně fungovat, pokud jsou cookies zakázány.",module,Magento_Theme
