@@ -13047,3 +13047,8 @@ Go to Checkout,Přejít k pokladně,module,Magento_Checkout
 Tooltip,Nápověda,module,Magento_Ui
 "Sorry, no quotes are available for this order at this time",Pro tuto objednávku momentálně není k dispozici žádný způsob dopravy.,module,Magento_Checkout
 "The store will not work correctly when cookies are disabled.","Obchod nebude správně fungovat, pokud jsou cookies zakázány.",module,Magento_Theme
+Your card has insufficient funds. Use a different payment method to complete this purchase.,Na vaší kartě není dostatek prostředků. K dokončení nákupu použijte jiný způsob platby.
+Your card was declined.,Vaše karta byla zamítnuta.
+Your card has expired.,Platnost vaší karty vypršela.
+Your card's security code is incorrect.,Bezpečnostní kód vaší karty je nesprávný.
+"The card couldn't be processed. Try the payment again. If it still fails, contact your card issuer.","Kartu se nepodařilo zpracovat. Zkuste platbu zopakovat. Pokud to stále nefunguje, kontaktujte vydavatele karty."
